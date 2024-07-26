@@ -22,4 +22,4 @@ https://colab.research.google.com/drive/1VTXcphdL_D0xPmlFL5E8lLMc1LCVmieY?usp=sh
 4. Found ortho-normalized vectors using the Gram-Schmidt Orthonormalization Process.
 
 Used google Co-laboratory to perform calculations. Wrote the code that changed random vectors into orthonormal vectors. The purpose was to create an orthonormal basis.
-https://colab.research.google.com/drive/1VTXcphdL_D0xPmlFL5E8lLMc1LCVmieY?usp=sharing
+[https://colab.research.google.com/drive/1VTXcphdL_D0xPmlFL5E8lLMc1LCVmieY?usp=sharing](https://colab.research.google.com/drive/1YVapTS1UFM14QAAb8usu1h8XwT_V4NcK)
